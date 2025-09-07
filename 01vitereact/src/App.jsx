@@ -1,10 +1,14 @@
 
 import './App.css'
-
+import Chai from './chai';  
 function App() {
 
   return (
-  <h1>kartik with vite | KS</h1>
+    <>
+<Chai/>
+<h1>Chai aur react</h1>
+<p>test para</p>
+</>
   )
 }
 
